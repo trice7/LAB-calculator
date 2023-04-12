@@ -1,3 +1,58 @@
 body {
   background-color: aquamarine;
+  
+  
+}
+
+.wrapper{
+  width: 400px;
+  margin: 0 auto;
+  background-color: antiquewhite;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.switch {
+  font-size: 24px;
+  width: 30px;
+}
+
+.row0{
+  margin-bottom: 3px;
+}
+
+.row1{
+  margin-bottom: 3px;
+  
+}
+
+.row2{
+  margin-bottom: 3px;
+}
+
+.row3{
+  margin-bottom: 3px;
+}
+
+.row4{
+  margin-bottom: 3px;
+}
+
+#id {
+  width: 30px;
+}
+
+#clear{
+  width: 65px;
+}
+
+#zero{
+  width: 98px;
+}
+
+#backspace{
+  width: 64px;
 }
